@@ -11,7 +11,7 @@ Features
 
 Usage
 1.clone the repository to your local machine:
-  git clone https://github.com/susani-01/calculator.git
+  git clone https://github.com/susani-01/ScientifiCalculator.git
 2.Navigate to the project directory:
   cd calculator
 3.Compile the source files:
