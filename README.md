@@ -11,13 +11,13 @@ Features
 
 Usage
 1.clone the repository to your local machine:
-  git clone https://github.com/susani-01/ScientificCalculator.git
+  git clone https://github.com/susani-01/calculator.git
 2.Navigate to the project directory:
-  cd ScientificCalculator
+  cd calculator
 3.Compile the source files:
   javac Project/*.java
 4.Run the calculator
-  java Project.Calculator
+  java Project.calculator
 5.Follow the on-screen instructions to perform calculation
 
 Usage Notes
